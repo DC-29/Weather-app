@@ -5,6 +5,12 @@ Displays current weather conditions.
 Shows the Air Quality Index (AQI) along with its category (e.g., Good, Moderate, Unhealthy).
 Visual weather icons and a user-friendly interface.
 
+Note that airnow AQI does not support AQI for locations out of US. Here a few that you might like to try:
+
+28,77 : New Delhi (Exception)
+25, -80: Miami
+39, -94: Kansas City
+
 APIs Used
 AirNow API
 OpenWeatherMap API

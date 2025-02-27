@@ -1,3 +1,14 @@
-A weather and AQI display app made in Tkinter.
+WeaQ is a simple weather and Air Quality Index (AQI) display application built using Tkinter.
 
-To run
+Features
+Displays current weather conditions.
+Shows the Air Quality Index (AQI) along with its category (e.g., Good, Moderate, Unhealthy).
+Visual weather icons and a user-friendly interface.
+
+APIs Used
+AirNow API
+OpenWeatherMap API
+How to Run
+
+Locate the dist folder after building the executable.
+Double-click on weaq.exe to launch the application.
